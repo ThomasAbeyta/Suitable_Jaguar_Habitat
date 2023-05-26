@@ -11,4 +11,9 @@ Aware of the emotional reactions often associated with animal welfare concerns, 
 In this research, I will employ a Convolutional Neural Network and explore the use of a Maxent model in future work. Kimberly Craighead's paper on this topic, available at [paper link](https://link.springer.com/article/10.1007/s10980-021-01335-2#data-availability), highlights the underutilization of such methods by ecologists. By presenting my findings in a non-traditional research format, I seek to demystify the process and encourage further exploration. Moreover, I invite questions and discussions to expand the potential applications of this model.
 
 
+<img width="924" alt="Screen Shot 2023-04-02 at 2 49 15 PM" src="https://github.com/ThomasAbeyta/Suitable_Jaguar_Habitat/assets/99691576/8ff165c7-744d-478d-a2e3-68a8145a6f19">
+
+
+
+
 
