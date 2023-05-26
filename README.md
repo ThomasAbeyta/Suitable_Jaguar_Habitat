@@ -11,7 +11,8 @@ Aware of the emotional reactions often associated with animal welfare concerns, 
 In this research, I will employ a Convolutional Neural Network and explore the use of a Maxent model in future work. Kimberly Craighead's paper on this topic, available at [paper link](https://link.springer.com/article/10.1007/s10980-021-01335-2#data-availability), highlights the underutilization of such methods by ecologists. By presenting my findings in a non-traditional research format, I seek to demystify the process and encourage further exploration. Moreover, I invite questions and discussions to expand the potential applications of this model.
 
 <img width="865" alt="Screen Shot 2023-05-26 at 3 42 27 PM" src="https://github.com/ThomasAbeyta/Suitable_Jaguar_Habitat/assets/99691576/8c2122de-c8af-4d17-8b07-116cef38846e">
-* *This image shows a heatmap of the Jaguars movement over a week and the plotted points are all of the points of the course of a year in chronolgical order from white to dark blue. 
+
+_This image shows a heatmap of the Jaguars movement over a week and the plotted points are all of the points of the course of a year in chronolgical order from white to dark blue. _
 
 I was able to produce over 3400 observations to feed my model and yielded a 92% accuracy which can be tested across the the region. In further work I plan to improve my feature set by disecting and incrementally assembling the DataFrame. Then I will apply an overlay that will gradient the map across the region (184,548 sq/km)to illustrate areas of high to low suitablitly for jaguars. 
 
